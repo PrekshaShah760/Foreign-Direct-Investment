@@ -17,7 +17,8 @@ PYTHON
 Jupyter Notebook, MS-Power BI
 
 # Conclusion 💡
-Frequently Ordered Items:
+
+### Frequently Ordered Items:
 
 Critical Priority: Beverages, Clothes, Personal Care
 
@@ -25,11 +26,11 @@ High Priority: Cosmetics, Cereal, Baby Food
 
 Low Priority: Household, Personal Care, Fruits
 
-Pearson Correlation Findings:
+### Pearson Correlation Findings:
 Units sold don't significantly affect unit pricing.
 Total Profits are highly correlated with revenue and total cost.
 
-Order Statistics:
+### Order Statistics:
 
 First order: 2010-02-02
 
@@ -39,12 +40,12 @@ Total orders: 100
 
 Total items: 12
 
-## Margin Analysis:
+### Margin Analysis:
 High-margin product: Cosmetics
 
 Low-margin product: Fruits
 
-Sales Insights:
+### Sales Insights:
 Most frequently ordered items: Clothes and Cosmetics
 
 Maximum orders: Sub-Saharan Africa Region
@@ -53,7 +54,7 @@ Least orders: North America Region
 
 Highest sales and profit years: 2012 and 2013
 
-Yearly Trends:
+### Yearly Trends:
 
 2012: Most sales from office supplies, most profitable items are Office supplies and Household.
 
@@ -61,7 +62,7 @@ Yearly Trends:
 
 2011: Most sales from Household, most profitable items are Household.
 
-Monthly Sales Trends:
+### Monthly Sales Trends:
 
 February has the maximum sales.
 
@@ -70,7 +71,7 @@ November and December have equal high sales.
 Most common items across months: Cosmetics, Household, Clothes, Office Supplies, Cereal, Personal Care, Fruits.
 
 
-Month-Yearly Trend Analysis:
+### Month-Yearly Trend Analysis:
 
 Highest sales and profit in December 2016.
 
