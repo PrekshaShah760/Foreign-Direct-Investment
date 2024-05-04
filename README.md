@@ -39,7 +39,7 @@ Total orders: 100
 
 Total items: 12
 
-Margin Analysis:
+## Margin Analysis:
 High-margin product: Cosmetics
 
 Low-margin product: Fruits
